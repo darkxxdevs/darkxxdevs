@@ -2,8 +2,6 @@
 <h3 align="center">I am an aspiring software developer from Lucknow , India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkxxdevs&label=Profile%20views&color=0e75b6&style=flat" alt="darkxxdevs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkxxdevs&theme=" alt="darkxxdevs" /></a> </p>
-
 <div> <a href="https://twitter.com/Devsdarkxx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/darkxxdevs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
